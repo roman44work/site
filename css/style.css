@@ -11899,7 +11899,7 @@ html, body {
 }
 
 body {
-  background: #f1ebd6;
+  background: #F1F0E8;
   display: flex;
   flex-direction: column;
 }
@@ -11908,12 +11908,16 @@ body {
   font-size: 20px;
 }
 
+.title {
+  margin-bottom: 20px;
+}
+
 header {
-  background: #71be87;
+  background: #ADC4CE;
 }
 
 footer {
-  background: #71be87;
+  background: #ADC4CE;
 }
 
 footer {
