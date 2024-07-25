@@ -11921,11 +11921,12 @@ p {
 }
 
 .users {
-  font-size: 20px;
+  font-size: 22px;
 }
 .users_title {
   font-size: 32px;
   margin-bottom: 10px;
+  color: #c0169a;
 }
 
 header {
